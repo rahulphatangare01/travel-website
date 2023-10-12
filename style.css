@@ -149,3 +149,16 @@ transition: 0.5s;
         font-size: 13px;
     }
 }
+
+/* Book Section Start */
+
+.book{
+    background:#f0f9f9 ;
+    padding: 50px;
+}
+
+.main-text h1{
+    text-align: center;
+    box-shadow: 0px 1px 1px black;
+    font-weight: 600;
+}
